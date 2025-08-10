@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌼 Hola, soy Raquel ✨
 
-<!--
-**raquelwek/raquelwek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Me gusta laburar, aprender y pensar en Pompompurin."_ 🐾
 
-Here are some ideas to get you started:
+📍 **Estudiante de Ingeniería en Informática (FIUBA)**  
+💻 Apasionada por resolver problemas y aprender cosas nuevas 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Tecnologías que uso
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
+
+---
+
+<div align="center">
+✨ _Gracias por pasar por mi perfil_ ✨  
+<br>
+<img src="https://media.giphy.com/media/d6S4zE8zCqVCG/giphy.gif" width="200" alt="pompompurin gif">
+</div>
