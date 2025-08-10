@@ -8,7 +8,7 @@
 ---
 
 ## 💼 Sobre mí
-- 🎓 **Formación:** Estudiante avanzada de Ingeniería en Informática (FIUBA)  
+- 🎓 **Formación:** Estudiante de Ingeniería en Informática (FIUBA)  
 - 💻 **Lenguajes:** Go, Python, C  
 - 🛠 **Herramientas:** Git, Linux, VSCode, GCC  
 - 📊 **Áreas de interés:** Algoritmos, arquitectura de computadoras, seguridad informática  
