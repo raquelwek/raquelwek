@@ -1,4 +1,4 @@
-# 🌼 Hola, soy Bellisima ✨
+# 🌼 Hola, soy Raquel ✨
 
 > _"Me gusta laburar, aprender y pensar en Pompompurin."_ 🐾
 
