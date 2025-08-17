@@ -1,16 +1,10 @@
 # 🌼 Hola, soy Raquel ✨
 
-> _"Me gusta laburar, aprender y pensar en Pompompurin."_ 🐾
-
-📍 **Estudiante de Ingeniería en Informática (FIUBA)**  
-💻 Programo en **Go**, **Python**, **C** 
-
 ---
 
 ## 💼 Sobre mí
 - 🎓 **Formación:** Estudiante de Ingeniería en Informática (FIUBA)  
 - 💻 **Lenguajes:** Go, Python, C  
-- 🛠 **Herramientas:** Git, Linux, VSCode, GCC  
 - 📊 **Áreas de interés:** Algoritmos, arquitectura de computadoras, seguridad informática  
 
 ---
